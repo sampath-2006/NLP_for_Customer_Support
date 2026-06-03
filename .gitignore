@@ -1,0 +1,11 @@
+myenv
+kaggle.json
+train_model.py
+customer_support_tickets.csv
+dl_label_encoder.pkl
+dl_model.keras
+dl_tokenizer.pkl
+model.pkl
+processed_data.pkl
+
+
